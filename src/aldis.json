@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "row": 5,
+      "col": 5,
+      "type": "METADATA",
+      "name": "MATRIXSIZE"
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "type": "START/EXIT",
+      "name": "ENTRANCE"
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "type": "ITEM",
+      "name": "KALE"
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "type": "ITEM",
+      "name": "QUINOA"
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "type": "ITEM",
+      "name": "ALMOND MILK"
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "type": "ITEM",
+      "name": "WATER CEREAL"
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "type": "ITEM",
+      "name": "SHOTSSHOTSSHOTS"
+    }
+  ]
+}

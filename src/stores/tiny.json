@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "row": 10,
+      "col": 10,
+      "type": "METADATA",
+      "name": "TINY",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "type": "START/EXIT",
+      "name": "ENTRANCE",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "type": "SHELF",
+      "name": "MILK",
+      "price": [
+        1.99,
+        2.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "type": "SHELF",
+      "name": "EGGS",
+      "price": [
+        1.99,
+        2.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "type": "SHELF",
+      "name": "APPLE",
+      "price": [
+        1.99,
+        2.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "type": "SHELF",
+      "name": "ORANGE",
+      "price": [
+        3.99,
+        4.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    }
+  ]
+}

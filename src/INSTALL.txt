@@ -1,0 +1,14 @@
+First to clone the repository, create a directory and open the zip file.
+
+Then run "make build" to install all dependencies. 
+For PathFindR run, 
+
+make build
+make play
+
+Then follow the directions in the UI. 
+If you would like to upload your own cart, put it in the directory labeled
+clists and follow the json format listed in the other carts.
+If you would like to upload your own store, put it in the directory labeled 
+stores and follow the json formated listed in the other carts.
+

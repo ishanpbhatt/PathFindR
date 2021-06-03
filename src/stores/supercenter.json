@@ -1,0 +1,11166 @@
+{
+  "nodes": [
+    {
+      "row": 100,
+      "col": 100,
+      "type": "METADATA",
+      "name": "SUPERCENTER",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 99,
+      "col": 50,
+      "type": "START/EXIT",
+      "name": "ENTRANCE",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 50,
+      "type": "SHELF",
+      "name": "POTATO CHIPS",
+      "price": [
+        1.00,
+        2.00,
+        1.59,
+        4.20
+      ],
+      "brands": [
+        "GENERIC",
+        "LAYS",
+        "FRITO LAY",
+        "SNYDERS LANCE"
+      ]
+    },
+    {
+      "row": 88,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 50,
+      "type": "SHELF",
+      "name": "PRETZELS",
+      "price": [
+        1.50,
+        2.99,
+        4.59,
+        2.01
+      ],
+      "brands": [
+        "GENERIC",
+        "AUNTIE ANNIES",
+        "ROLD GOLD",
+        "SNYDER'S"
+      ]
+    },
+    {
+      "row": 74,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 50,
+      "type": "SHELF",
+      "name": "CRACKERS",
+      "price": [
+        2.50,
+        3.00,
+        4.59,
+        2.43
+      ],
+      "brands": [
+        "GENERIC",
+        "RITZ",
+        "WHEAT THINS",
+        "CHEEZ IT"
+      ]
+    },
+    {
+      "row": 56,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 60,
+      "type": "SHELF",
+      "name": "WAFFLES",
+      "price": [
+        1.00,
+        2.00,
+        3.56,
+        2.46
+      ],
+      "brands": [
+        "GENERIC",
+        "EGGO",
+        "AUNT JEMIMA",
+        "VANS"
+      ]
+    },
+    {
+      "row": 88,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 60,
+      "type": "SHELF",
+      "name": "POPCORN",
+      "price": [
+        2.99,
+        3.99,
+        4.39,
+        1.42
+      ],
+      "brands": [
+        "GENERIC",
+        "SMARTFOOD",
+        "SKINNY POP",
+        "POP SECRET"
+      ]
+    },
+    {
+      "row": 81,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 60,
+      "type": "SHELF",
+      "name": "PEANUT BUTTER",
+      "price": [
+        1.00,
+        2.99,
+        3.42,
+        2.01
+      ],
+      "brands": [
+        "PLANTERS",
+        "ORGANIC",
+        "SKIPPY",
+        "JIF"
+      ]
+    },
+    {
+      "row": 66,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 60,
+      "type": "SHELF",
+      "name": "DRIED FRUIT",
+      "price": [
+        1.00,
+        3.00,
+        4.23,
+        5.67
+      ],
+      "brands": [
+        "APPLES",
+        "BANANAS",
+        "MANGO",
+        "STRAWBERRY"
+      ]
+    },
+    {
+      "row": 89,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 70,
+      "type": "SHELF",
+      "name": "TREE NUTS",
+      "price": [
+        2.99,
+        3.50,
+        3.20
+      ],
+      "brands": [
+        "ALMONDS",
+        "WALNUTS",
+        "PISTACHIO"
+      ]
+    },
+    {
+      "row": 84,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 70,
+      "type": "SHELF",
+      "name": "JERKY",
+      "price": [
+        1.99,
+        1.00,
+        2.50,
+        1.25
+      ],
+      "brands": [
+        "SLIM JIM",
+        "GENERIC",
+        "JACK LINKS",
+        "OBERTO"
+      ]
+    },
+    {
+      "row": 71,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 70,
+      "type": "SHELF",
+      "name": "PROTIEN BAR",
+      "price": [
+        10.99,
+        7.50,
+        4.30,
+        12.43
+      ],
+      "brands": [
+        "CLIFF BAR",
+        "GENERIC",
+        "PURE PROTEIN",
+        "QUEST"
+      ]
+    },
+    {
+      "row": 56,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 49,
+      "type": "SHELF",
+      "name": "PEPPER SPICE",
+      "price": [
+        1.50,
+        0.99,
+        0.85,
+        1.12
+      ],
+      "brands": [
+        "GENERIC",
+        "MCCORMICK",
+        "WESTERN",
+        "FREE WAY"
+      ]
+    },
+    {
+      "row": 84,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 49,
+      "type": "SHELF",
+      "name": "SALT",
+      "price": [
+        1.50,
+        0.95,
+        1.12
+      ],
+      "brands": [
+        "GENERIC",
+        "MCCORMICK",
+        "FREE WAY"
+      ]
+    },
+    {
+      "row": 74,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 49,
+      "type": "SHELF",
+      "name": "OREGANO",
+      "price": [
+        1.99,
+        0.96,
+        1.13,
+        0.85
+      ],
+      "brands": [
+        "GENERIC",
+        "MCCORMICK",
+        "FREE WAY",
+        "BELLS"
+      ]
+    },
+    {
+      "row": 61,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 49,
+      "type": "SHELF",
+      "name": "CUMIN",
+      "price": [
+        1.99,
+        0.85,
+        1.12,
+        0.99
+      ],
+      "brands": [
+        "GENERIC",
+        "MCCORMICK",
+        "FREE WAY",
+        "BELLS"
+      ]
+    },
+    {
+      "row": 89,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 69,
+      "type": "SHELF",
+      "name": "OREOS",
+      "price": [
+        12.99,
+        9.99
+      ],
+      "brands": [
+        "BRAND NAME",
+        "GENERIC"
+      ]
+    },
+    {
+      "row": 77,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 59,
+      "type": "SHELF",
+      "name": "PIZZA ROLLS",
+      "price": [
+        5.99,
+        3.99,
+        2.99,
+        4.10
+      ],
+      "brands": [
+        "TOSTINOS",
+        "GENERIC",
+        "FREDDIES",
+        "QUICK WAY"
+      ]
+    },
+    {
+      "row": 82,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 85,
+      "type": "SHELF",
+      "name": "HOT POCKETS",
+      "price": [
+        10.99,
+        8.40
+      ],
+      "brands": [
+        "NAME BRAND",
+        "GENERIC"
+      ]
+    },
+    {
+      "row": 88,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 49,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 69,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 59,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 50,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 70,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 60,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 80,
+      "type": "SHELF",
+      "name": "SODA",
+      "price": [
+        3.00,
+        1.00,
+        1.12,
+        3.20,
+        4.20,
+        1.50,
+        3.59
+      ],
+      "brands": [
+        "SPRITE",
+        "GENERIC",
+        "COKE",
+        "PEPSI",
+        "ORANGE",
+        "DIET COKE",
+        "MOUNTAIN DEW"
+      ]
+    },
+    {
+      "row": 19,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 85,
+      "type": "SHELF",
+      "name": "FRUIT PUNCH",
+      "price": [
+        5.00,
+        7.00,
+        4.32,
+        8.95
+      ],
+      "brands": [
+        "GENERIC",
+        "KOOL AID",
+        "HAWAIIAN PUNCH",
+        "MINUTE MAID"
+      ]
+    },
+    {
+      "row": 19,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 90,
+      "type": "SHELF",
+      "name": "HARD SELTZER",
+      "price": [
+        15.99,
+        21.99,
+        15.49,
+        16.50
+      ],
+      "brands": [
+        "WHITE CLAW",
+        "HIGH NOON",
+        "BUD LIGHT",
+        "CORONA"
+      ]
+    },
+    {
+      "row": 19,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 95,
+      "type": "SHELF",
+      "name": "TEQUILA",
+      "price": [
+        36.0,
+        35.99,
+        65.40,
+        25.62
+      ],
+      "brands": [
+        "JOSE CUERVO",
+        "PATRON",
+        "ESPOLON",
+        "CLASE AZUL"
+      ]
+    },
+    {
+      "row": 8,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 83,
+      "type": "SHELF",
+      "name": "BOURBON",
+      "price": [
+        14.99,
+        18.99
+      ],
+      "brands": [
+        "JIM BEAM",
+        "JAMESON"
+      ]
+    },
+    {
+      "row": 8,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 88,
+      "type": "SHELF",
+      "name": "WHISKEY",
+      "price": [
+        24.99,
+        20.99,
+        35.40,
+        23.95
+      ],
+      "brands": [
+        "JACK DANIELS",
+        "FIREBALL",
+        "CROWN ROYAL",
+        "JIM BEAM"
+      ]
+    },
+    {
+      "row": 8,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 93,
+      "type": "SHELF",
+      "name": "GIN",
+      "price": [
+        15.00,
+        20.00
+      ],
+      "brands": [
+        "BOMBAY",
+        "PLYMOUTH"
+      ]
+    },
+    {
+      "row": 8,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 80,
+      "type": "SHELF",
+      "name": "HARD CIDER",
+      "price": [
+        3.00,
+        4.50,
+        12.60,
+        5.43
+      ],
+      "brands": [
+        "GENERIC",
+        "ANGRY ORCHARD",
+        "CRISPEN",
+        "ACE"
+      ]
+    },
+    {
+      "row": 9,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 85,
+      "type": "SHELF",
+      "name": "GRAPE JUICE",
+      "price": [
+        25.00,
+        20.00,
+        15.40
+      ],
+      "brands": [
+        "NEWMANS",
+        "OCEAN SPRAYS",
+        "WELCHS"
+      ]
+    },
+    {
+      "row": 9,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 90,
+      "type": "SHELF",
+      "name": "BEER",
+      "price": [
+        15.00,
+        13.00,
+        20.00
+      ],
+      "brands": [
+        "BUD LIGHT",
+        "KEYSTONE",
+        "PBR"
+      ]
+    },
+    {
+      "row": 9,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 95,
+      "type": "SHELF",
+      "name": "VODKA",
+      "price": [
+        35.00,
+        45.00,
+        35.00,
+        25.60
+      ],
+      "brands": [
+        "BARTONS",
+        "TITOS",
+        "NUE",
+        "AMSTERDAM"
+      ]
+    },
+    {
+      "row": 28,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 86,
+      "type": "SHELF",
+      "name": "BREAD",
+      "price": [
+        5.99,
+        3.99,
+        4.20,
+        3.29
+      ],
+      "brands": [
+        "WONDER",
+        "GENERIC",
+        "ARNOLD",
+        "CANYON"
+      ]
+    },
+    {
+      "row": 28,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 88,
+      "type": "SHELF",
+      "name": "TORTILLA",
+      "price": [
+        4.99,
+        3.20,
+        2.46
+      ],
+      "brands": [
+        "GENERIC",
+        "MISSION",
+        "GUERRERO"
+      ]
+    },
+    {
+      "row": 29,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 92,
+      "type": "SHELF",
+      "name": "PASTA",
+      "price": [
+        10.00,
+        11.00
+      ],
+      "brands": [
+        "PENNE",
+        "BOWTIE"
+      ]
+    },
+    {
+      "row": 38,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 89,
+      "type": "SHELF",
+      "name": "UNCRUSTABLES",
+      "price": [
+        5.99
+      ],
+      "brands": [
+        "GENERIC"
+      ]
+    },
+    {
+      "row": 39,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 49,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 48,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 80,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 81,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 82,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 83,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 84,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 85,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 86,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 87,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 88,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 89,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 90,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 91,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 92,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 93,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 94,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 95,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 89,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 88,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 87,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 86,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 83,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 82,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 81,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 80,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 79,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 78,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 77,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 76,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 73,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 72,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 71,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 70,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 69,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 68,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 67,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 66,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 63,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 62,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 61,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 60,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 59,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 58,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 57,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 56,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 40,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 39,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 30,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 43,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 42,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 41,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 40,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 39,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 38,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 37,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 36,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 33,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 32,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 31,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 30,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 29,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 28,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 27,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 26,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 23,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 22,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 21,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 20,
+      "col": 29,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "type": "SHELF",
+      "name": "SALMON",
+      "price": [
+        15.99,
+        21.99,
+        17.50,
+        19.89
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "FUSION",
+        "HAPPY FISH"
+      ]
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "type": "SHELF",
+      "name": "TUNA",
+      "price": [
+        12.99,
+        15.99,
+        12.30,
+        17.89
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "HAPPY FISH",
+        "FUSION"
+      ]
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "type": "SHELF",
+      "name": "TROUT",
+      "price": [
+        10.99,
+        13.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "type": "SHELF",
+      "name": "FLOUNDER",
+      "price": [
+        5.99,
+        10.00,
+        16.50,
+        32.50
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "FUSION",
+        "EURO FALLS"
+      ]
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 55,
+      "type": "SHELF",
+      "name": "CHICKEN",
+      "price": [
+        5.99,
+        10.99,
+        14.50,
+        12.98
+      ],
+      "brands": [
+        "TYSON",
+        "MARYS",
+        "COLEMAN",
+        "RANGERS"
+      ]
+    },
+    {
+      "row": 11,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 55,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 65,
+      "type": "SHELF",
+      "name": "HAM",
+      "price": [
+        5.99,
+        10.00,
+        8.60,
+        9.40
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC ECKRICH",
+        "CURE 81",
+        "HILLSHIRE"
+      ]
+    },
+    {
+      "row": 15,
+      "col": 65,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 54,
+      "type": "SHELF",
+      "name": "STEAK",
+      "price": [
+        16.99,
+        25.99,
+        32.90,
+        35.40
+      ],
+      "brands": [
+        "STAR RANCH",
+        "CEW",
+        "ANGUS BEEF",
+        "WILSONS"
+      ]
+    },
+    {
+      "row": 11,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 54,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 64,
+      "type": "SHELF",
+      "name": "APPPLES",
+      "price": [
+        1.00,
+        2.00,
+        3.20,
+        2.25
+      ],
+      "brands": [
+        "GENERIC",
+        "SMITTEN",
+        "CUBBIES",
+        "JUNAMI"
+      ]
+    },
+    {
+      "row": 10,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 64,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 44,
+      "type": "SHELF",
+      "name": "BANANA",
+      "price": [
+        2.99,
+        3.99,
+        2.25,
+        1.99
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "CHIQUITA",
+        "BALM"
+      ]
+    },
+    {
+      "row": 14,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 44,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 45,
+      "type": "SHELF",
+      "name": "ORANGES",
+      "price": [
+        1.99,
+        2.50,
+        3.50,
+        1.70
+      ],
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "HALOS",
+        "SHIRAKIKU"
+      ]
+    },
+    {
+      "row": 14,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 45,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 34,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 7,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 8,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 11,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 12,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 13,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 35,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 18,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 19,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 14,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 15,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 9,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 10,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 5,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 6,
+      "col": 19,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 24,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 25,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 34,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 35,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 45,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 44,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 54,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 55,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 64,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 65,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 74,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 75,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 84,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 7,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 8,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 11,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 12,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 85,
+      "col": 15,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 5,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 6,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 9,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 10,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 13,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 14,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 17,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 90,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 17,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 91,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 17,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 94,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 17,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 95,
+      "col": 18,
+      "type": "WALL",
+      "name": "N/A",
+      "price": [],
+      "brands": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "row": 2,
+      "col": 2,
+      "type": "METADATA",
+      "name": "TEST",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "type": "START/EXIT",
+      "name": "ENTRANCE",
+      "price": [],
+      "brands": []
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "type": "SHELF",
+      "name": "OREOS",
+      "price": [
+        1.00,
+        2.00
+      ],
+      "brands": [
+        "NORMAL",
+        "DOUBLE STUFFED"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "row": 5,
+      "col": 5,
+      "type": "METADATA",
+      "name": "MATRIXSIZE"
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "type": "START/EXIT",
+      "name": "ENTRANCE"
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "type": "ITEM",
+      "name": "APPLE"
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "type": "ITEM",
+      "name": "ORANGE"
+    },
+    {
+      "row": 0,
+      "col": 4,
+      "type": "ITEM",
+      "name": "PEAR"
+    }
+  ]
+}

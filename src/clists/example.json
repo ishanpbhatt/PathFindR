@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "item": "CRACKERS",
+      "brand": "GENERIC"
+    },
+    {
+      "item": "TROUT",
+      "brand": "GENERIC"
+    },
+    {
+      "item": "APPLES",
+      "brand": "GREEN"
+    }
+  ]
+}

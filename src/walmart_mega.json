@@ -1,0 +1,124 @@
+{
+  "nodes": [
+    {
+      "row": 25,
+      "col": 25,
+      "type": "METADATA",
+      "name": "MATRIXSIZE"
+    },
+    {
+      "row": 0,
+      "col": 0,
+      "type": "START/EXIT",
+      "name": "ENTRANCE"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "type": "ITEM",
+      "name": "WINE"
+    },
+    {
+      "row": 1,
+      "col": 10,
+      "type": "ITEM",
+      "name": "BEER"
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "type": "ITEM",
+      "name": "EVERCLEAR"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "type": "ITEM",
+      "name": "GADORADE"
+    },
+    {
+      "row": 20,
+      "col": 24,
+      "type": "ITEM",
+      "name": "HARD CIDER"
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "type": "AISLE",
+      "name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "nodes": [
+    {
+      "name": "APPLES",
+      "brands": [
+        "GREEN",
+        "GENERIC"
+      ]
+    },
+    {
+      "name": "ORANGES",
+      "brands": [
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "name": "SALMON",
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "name": "CHICKEN",
+      "brands": [
+        "BREAST",
+        "ROTISSERIE"
+      ]
+    },
+    {
+      "name": "FLOUNDER",
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "name": "TROUT",
+      "brands": [
+        "GENERIC",
+        "ORGANIC"
+      ]
+    },
+    {
+      "name": "POTATO CHIPS",
+      "brands": [
+        "GENERIC",
+        "LAYS",
+        "PRINGLES",
+        "FRITOS"
+      ]
+    },
+    {
+      "name": "BEER",
+      "brands": [
+        "BUD LIGHT",
+        "KEYSTONE",
+        "PBR",
+        "NATTY LIGHT"
+      ]
+    },
+    {
+      "name": "VOKDA",
+      "brands": [
+        "BARTONS",
+        "TITOS",
+        "GREY GOOSE"
+      ]
+    },
+    {
+      "name": "PIZZA ROLLS",
+      "brands": [
+        "TOSTINOS",
+        "GENERIC"
+      ]
+    },
+    {
+      "name": "OREOS",
+      "brands": [
+        "BRAND NAME"
+      ]
+    },
+    {
+      "name": "PEPPER",
+      "brands": [
+        "GENERIC"
+      ]
+    },
+    {
+      "name": "JERKY",
+      "brands": [
+        "GENERIC",
+        "SLIM JIM"
+      ]
+    },
+    {
+      "name": "POPCORN",
+      "brands": [
+        "GENERIC",
+        "SMARTFOOD",
+        "POP SECRET"
+      ]
+    },
+    {
+      "name": "WAFFLES",
+      "brands": [
+        "GENERIC",
+        "EGGO",
+        "AUNT JEMIMA"
+      ]
+    },
+    {
+      "name": "CRACKERS",
+      "brands": [
+        "GENERIC",
+        "RITZ",
+        "CHEEZ IT",
+        "TUC"
+      ]
+    },
+    {
+      "name": "PRETZELS",
+      "brands": [
+        "GENERIC",
+        "AUNTIE ANNIES",
+        "ROLD GOLD"
+      ]
+    },
+    {
+      "name": "BREAD",
+      "brands": [
+        "WONDER",
+        "WHOLE WHEAT",
+        "RUDIS"
+      ]
+    },
+    {
+      "name": "BANANAS",
+      "brands": [
+        "GENERIC",
+        "ORGANIC",
+        "BURRO"
+      ]
+    },
+    {
+      "name": "DRIED FRUIT",
+      "brands": [
+        "APPLES",
+        "BANANAS",
+        "PEACH"
+      ]
+    },
+    {
+      "name": "HOT POCKETS",
+      "brands": [
+        "NAME BRAND"
+      ]
+    }
+  ]
+}
